@@ -6,7 +6,7 @@ const findNb = m => {
     while (volume < m) {
         //incrementing my result here
         result = result + 1
-            //using Math.pow^3 to find our volume 
+        //using Math.pow^3 to find our volume 
         volume += Math.power(result, 3)
     }
     if (volume != m) {
