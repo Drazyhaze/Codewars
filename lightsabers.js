@@ -1,0 +1,1 @@
+const howManyLightsabersDoYouOwn = (z) => "Zach" === z ? 18 : 0
