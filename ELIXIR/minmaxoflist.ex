@@ -1,4 +1,4 @@
-Rob i#Solution 1
+#Solution 1
 
 defmodule MinMax do
   def min(list) do
